@@ -10,4 +10,4 @@ getgenv().key = "MARU736PSHVC6LBN1AJGBTSRGM"
 getgenv().id = "1261551389260251146"
 getgenv().Script_Mode = "Kaitun_Script"
 
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/ec883860fc462fd9c9cd5009505825ec.lua"))()
+loadstring(game:HttpGet("https://cdn.maruhub.online/s/pc"))()
