@@ -6,7 +6,7 @@ local _h = "46b843749979fa8447241ea5d74cc7b9dd4f9efcd90a1feb3b2523e1c6758f070be4
 if gethwid then hookfunction(gethwid, newcclosure(function() return _h end)) end
 if get_hwid then hookfunction(get_hwid, newcclosure(function() return _h end)) end
 
-getgenv().key = "MARU736PSHVC6LBN1AJGBTSRGM"
+getgenv().key = "MARUAZTDNK9FRVXE2CIWUY5RXQ"
 getgenv().id = "1261551389260251146"
 getgenv().Script_Mode = "Kaitun_Script"
 
